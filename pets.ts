@@ -6,3 +6,5 @@ for (let i = 0; i<pets.length; i++) {
 }
 
 console.log('Finish')
+
+console.log('Print END')
